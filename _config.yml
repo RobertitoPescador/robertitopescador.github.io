@@ -1,0 +1,10 @@
+title: robertito pescador's blog
+baseurl: "" 
+url: "https://robertitopescador.github.io"
+
+# tema remoto
+remote_theme: pages-themes/minimal@v0.2.0
+
+# plugins necesarios
+plugins:
+  - jekyll-remote-theme
